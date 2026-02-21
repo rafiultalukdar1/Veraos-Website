@@ -1,0 +1,889 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+    body {
+        font-size: 21px;
+        line-height: 150%;
+    }
+    /* hero responsive  */
+    .hero-middle-wp h2 {
+        font-size: 60px;
+    }
+    .hero-wrapper .video-btn a {
+        width: 70px;
+        height: 70px;
+        font-size: 30px;
+    }
+    /* feature area  */
+    .feature-area {
+        padding-top: 100px;
+    }
+    .section-title h2 {
+        font-size: 60px;
+    }
+    /* global bottom  */
+    .global-bottom-area {
+        padding: 100px 0;
+    }
+    .global-bottom-wrapper h2 {
+        font-size: 60px;
+    }
+    /* footer responsive  */
+    .footer-top-left h2 {
+        font-size: 50px;
+    }
+    /*====== data reckoning area start hare ====== */
+    .unified-wrapper h2 {
+        font-size: 60px;
+        margin-top: 20px;
+    }
+    .fail-connect-area {
+        padding: 80px 0;
+    }
+    .unified-insight-area {
+        padding: 80px 0;
+    }
+    .warning-missed-area {
+        padding-top: 80px;
+    }
+    /*====== about us page ======== */
+    .problem-solve-area {
+        padding-top: 80px;
+    }
+    .problem-solve-wrapper p {
+        font-size: 23px;
+        margin-top: 30px;
+    }
+    .feature-area.about-feature {
+        padding: 80px 0;
+    }
+    .technology-area {
+        padding: 80px 0;
+    }
+    .single-technology-card h4 {
+        font-size: 26px;
+    }
+    .story-area {
+        padding: 80px 0;
+    }
+    .story-card {
+        gap: 30px;
+    }
+    .story-wrapper {
+        gap: 55px;
+    }
+    .story-card p {
+        font-size: 23px;
+    }
+    .inner-single-card h3 {
+        font-size: 45px;
+    }
+    .inner-content-wp {
+        padding-top: 50px;
+        gap: 50px;
+    }
+    .contact-today-wrapper h2 {
+        font-size: 50px;
+    }
+    .contact-form-area {
+        padding: 80px 0;
+    }
+    /* newsroom page  */
+    .leadership-area {
+        padding: 80px 0;
+    }
+    .media-inquiries {
+        padding-bottom: 80px;
+    }
+    .press-releases-area {
+        padding-bottom: 80px;
+    }
+    /* terms policy page responsive  */
+    .terms-policy-area {
+        padding: 80px 0;
+    }
+    .terms-policy-wrapper {
+        gap: 50px;
+    }
+    .policy-title {
+        font-size: 40px;
+    }
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    body {
+        font-size: 20px;
+        line-height: 140%;
+    }
+    /* hero responsive  */
+    .hero-middle-wp h2 {
+        font-size: 50px;
+    }
+    .hero-wrapper .video-btn a {
+        width: 60px;
+        height: 60px;
+        font-size: 25px;
+    }
+    .hero-bottom-btn a {
+        font-size: 16px;
+    }
+    /* feature area  */
+    .feature-area {
+        padding-top: 80px;
+    }
+    .section-title h2 {
+        font-size: 50px;
+    }
+    .secton-top {
+        gap: 20px;
+    }
+    .feature-wrapper {
+        padding-top: 60px;
+    }
+    .global-bottom-wrapper {
+        gap: 30px;
+    }
+    /* global bottom  */
+    .global-bottom-area {
+        padding: 70px 0;
+    }
+    .global-bottom-wrapper h2 {
+        font-size: 50px;
+    }
+    /* footer responsive  */
+    .footer-top-left h2 {
+        font-size: 45px;
+    }
+    .footer-wrapper {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .footer-social-block {
+        gap: 20px;
+        padding-bottom: 35px;
+    }
+    /*===== Neural Ocean Page responsive ====== */
+    .unrivaled-images {
+        max-width: 500px;
+        margin: 0 auto;
+    }
+    /*====== data reckoning area start hare ====== */
+    .unified-wrapper h2 {
+        font-size: 60px;
+        margin-top: 20px;
+    }
+    /*====== data reckoning area start hare ====== */
+    .unified-wrapper h2 {
+        font-size: 50px;
+        margin-top: 15px;
+    }
+    .fail-connect-area {
+        padding: 70px 0;
+    }
+    .unified-insight-area {
+        padding: 80px 0;
+    }
+    .fail-connect-wrapper {
+        padding-top: 40px;
+        gap: 25px;
+    }
+    .unified-wrapper .unified-pera {
+        padding-top: 30px;
+        gap: 20px;
+    }
+    .unified-wrapper .unified-pera p {
+        font-size: 20px;
+    }
+    .global-bottom-wrapper p {
+        font-size: 22px;
+    }
+    .warning-missed-area {
+        padding-top: 60px;
+    }
+    .warrning-block h4 {
+        font-size: 25px;
+    }
+    .warrning-block {
+        padding: 30px 25px;
+    }
+    .warning-wrapper {
+        padding-top: 60px;
+    }
+    .fragmented-intelligence-area {
+        padding-top: 60px;
+    }
+    .fragmented-wrapper {
+        padding-top: 30px;
+        gap: 25px;
+    }
+    /*====== about us page ======== */
+    .problem-solve-area {
+        padding-top: 70px;
+    }
+    .problem-solve-wrapper p {
+        font-size: 23px;
+        margin-top: 30px;
+    }
+    .feature-area.about-feature {
+        padding: 65px 0;
+    }
+    .technology-area {
+        padding: 65px 0;
+    }
+    .single-technology-card h4 {
+        font-size: 22px;
+    }
+    .story-area {
+        padding: 65px 0;
+    }
+    .story-card {
+        gap: 20px;
+    }
+    .story-wrapper {
+        gap: 40px;
+    }
+    .story-card p {
+        font-size: 22px;
+    }
+    .card-top-wp {
+        gap: 25px;
+    }
+    .technology-wrapper {
+        padding-top: 40px;
+    }
+    .single-technology-card {
+        padding: 25px;
+        gap: 15px;
+    }
+    .single-technology-card ul li {
+        font-size: 18px;
+    }
+    .security-commitment-wrapper p {
+        padding-top: 25px;
+        font-size: 22px;
+    }
+    .security-commitment-wrapper ul {
+        padding-top: 35px;
+    }
+    .security-commitment-area {
+        padding: 65px 0;
+    }
+    .card-top-wp p {
+        font-size: 22px;
+    }
+    .inner-content-wp {
+        padding-top: 50px;
+        gap: 50px;
+    }
+    .inner-single-card h3 {
+        font-size: 35px;
+    }
+    .inner-content-wp {
+        padding-top: 45px;
+        gap: 40px;
+    }
+    .contact-today-wrapper h2 {
+        font-size: 40px;
+    }
+    .inner-single-card {
+        gap: 20px;
+    }
+    .contact-today-area {
+        padding: 70px 0;
+    }
+    .contact-form-area {
+        padding: 60px 0;
+    }
+    /* newsroom page  */
+    .leadership-area {
+        padding: 60px 0;
+    }
+    .media-inquiries {
+        padding-bottom: 60px;
+    }
+    .press-releases-area {
+        padding-bottom: 60px;
+    }
+    .press-releases-wrapper {
+        gap: 30px;
+    }
+    .releaases-list ul li a {
+        font-size: 20px;
+    }
+    /* terms policy page responsive  */
+    .terms-policy-area {
+        padding: 60px 0;
+    }
+    .terms-policy-wrapper {
+        gap: 50px;
+    }
+    .policy-title {
+        font-size: 35px;
+    }
+    .policy-terms-top-block p {
+        margin-top: 20px;
+        font-size: 19px;
+    }
+    .policy-inner-block h4 {
+        font-size: 25px;
+    }
+    .policy-inner-block {
+        gap: 18px;
+    }
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+
+@media screen and (max-width: 767px) {
+    body {
+        font-size: 18px;
+        line-height: 135%;
+    }
+    /* hero responsive  */
+    .hero-middle-wp h2 {
+        font-size: 35px;
+    }
+    .hero-wrapper .video-btn a {
+        width: 60px;
+        height: 60px;
+        font-size: 25px;
+    }
+    .hero-bottom-btn a {
+        font-size: 16px;
+    }
+    .hero-wrapper {
+        padding-top: 110px;
+        min-height: auto;
+    }
+    .hero-bottom-btn {
+        margin-right: auto;
+    }
+    /* feature area  */
+    .feature-area {
+        padding-top: 50px;
+    }
+    .section-title h2 {
+        font-size: 35px;
+    }
+    .secton-top {
+        gap: 20px;
+    }
+    .feature-wrapper {
+        padding-top: 40px;
+    }
+    .global-bottom-wrapper {
+        gap: 20px;
+    }
+    /* global bottom  */
+    .global-bottom-area {
+        padding: 50px 0;
+    }
+    .global-bottom-wrapper h2 {
+        font-size: 35px;
+    }
+    .global-bottom-wrapper p {
+        font-size: 20px;
+    }
+    .footer-top-left p {
+        font-size: 18px;
+        line-height: 130.667%;
+        margin-top: 10px;
+    }
+    /* footer responsive  */
+    .footer-top-left h2 {
+        font-size: 30px;
+    }
+    .footer-wrapper {
+        padding-top: 70px;
+        padding-bottom: 50px;
+    }
+    .footer-social-block {
+        gap: 20px;
+        align-items: start;
+        padding-bottom: 35px;
+    }
+    /*====== data reckoning area start hare ====== */
+    .unified-wrapper h2 {
+        font-size: 35px;
+        margin-top: 10px;
+    }
+    .fail-connect-area {
+        padding: 60px 0;
+    }
+    .unified-insight-area {
+        padding: 60px 0;
+    }
+    .fail-connect-wrapper {
+        padding-top: 28px;
+        gap: 20px;
+    }
+    .unified-wrapper .unified-pera {
+        padding-top: 20px;
+        gap: 15px;
+    }
+    .unified-wrapper .unified-pera p {
+        font-size: 18px;
+    }
+    .warning-missed-area {
+        padding-top: 50px;
+    }
+    .warrning-block h4 {
+        font-size: 22px;
+    }
+    .warrning-block {
+        padding: 30px 25px;
+    }
+    .warning-wrapper {
+        padding-top: 60px;
+    }
+    .warrning-block ul li {
+        font-size: 17px;
+    }
+    .video-container {
+        padding-top: 40px;
+    }
+    .fragmented-intelligence-area {
+        padding-top: 60px;
+    }
+    .fragmented-wrapper {
+        padding-top: 30px;
+        gap: 25px;
+    }
+    /*====== about us page ======== */
+    .problem-solve-area {
+        padding-top: 45px;
+    }
+    .problem-solve-wrapper p {
+        font-size: 19px;
+        margin-top: 20px;
+    }
+    .feature-area.about-feature {
+        padding: 45px 0;
+    }
+    .technology-area {
+        padding: 45px 0;
+    }
+    .single-technology-card h4 {
+        font-size: 22px;
+    }
+    .story-area {
+        padding: 45px 0;
+    }
+    .story-card {
+        gap: 20px;
+    }
+    .story-wrapper {
+        gap: 30px;
+    }
+    .story-card p {
+        font-size: 18px;
+    }
+    .card-top-wp {
+        gap: 25px;
+    }
+    .technology-wrapper {
+        padding-top: 40px;
+    }
+    .single-technology-card {
+        padding: 25px;
+        gap: 15px;
+    }
+    .single-technology-card ul li {
+        font-size: 18px;
+    }
+    .security-commitment-wrapper p {
+        padding-top: 20px;
+        font-size: 18px;
+    }
+    .security-commitment-wrapper ul {
+        padding-top: 25px;
+    }
+    .security-commitment-area {
+        padding: 45px 0;
+    }
+    .card-top-wp p {
+        font-size: 22px;
+    }
+    .data-supermacy-wrapper {
+        padding-top: 45px;
+    }
+    .inner-content-wp {
+        padding-top: 50px;
+        gap: 50px;
+    }
+    .inner-single-card h3 {
+        font-size: 30px;
+    }
+    .inner-content-wp {
+        padding-top: 35px;
+        gap: 30px;
+    }
+    .contact-today-wrapper h2 {
+        font-size: 35px;
+    }
+    .inner-single-card {
+        gap: 15px;
+    }
+    .contact-today-area {
+        padding: 60px 0;
+    }
+    .contact-form-area {
+        padding: 50px 0;
+    }
+    .single-input label,
+    .single-input h4 {
+        font-size: 18px;
+    }
+    .single-input input,
+    .single-input select,
+    .single-input textarea {
+        font-size: 18px;
+    }
+    /* newsroom page  */
+    .leadership-area {
+        padding: 45px 0;
+    }
+    .media-inquiries {
+        padding-bottom: 60px;
+    }
+    .press-releases-area {
+        padding-bottom: 45px;
+    }
+    .press-releases-wrapper {
+        gap: 20px;
+    }
+    .releaases-list ul li a {
+        font-size: 18px;
+    }
+    .leadership-wrapper p {
+        margin-top: 20px;
+    }
+    .leadership-img img {
+        width: 100%;
+    }
+    /* terms policy page responsive  */
+    .privecy-terms-hero .hero-wrapper {
+        min-height: auto;
+        padding: 180px 0;
+    }
+    .terms-policy-area {
+        padding: 45px 0;
+    }
+    .terms-policy-wrapper {
+        gap: 25px;
+    }
+    .policy-title {
+        font-size: 30px;
+    }
+    .policy-terms-top-block p {
+        margin-top: 15px;
+        font-size: 17px;
+    }
+    .policy-inner-block h4 {
+        font-size: 22px;
+    }
+    .policy-inner-block {
+        gap: 18px;
+    }
+    .policy-inner-block p {
+        font-size: 17px;
+    }
+    .policy-inner-block ul li {
+        font-size: 17px;
+    }
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+
+@media screen and (max-width: 576px) {
+    body {
+        font-size: 16px;
+        line-height: 120%;
+    }
+    /* hero responsive  */
+    .hero-middle-wp h2 {
+        font-size: 26px;
+    }
+    .hero-middle-wp {
+        gap: 20px;
+    }
+    .hero-wrapper .video-btn a {
+        width: 50px;
+        height: 50px;
+        font-size: 20px;
+    }
+    .hero-middle-wp p {
+        font-size: 16px;
+    }
+    .hero-bottom-btn a {
+        font-size: 15px;
+        padding: 10px 15px;
+    }
+    .hero-middle-wp h5 {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+    .feature-area {
+        padding-top: 35px;
+    }
+    .section-title h2 {
+        font-size: 24px;
+    }
+    .secton-top {
+        gap: 10px;
+    }
+    .feature-wrapper {
+        padding-top: 30px;
+    }
+    .single-feature-card {
+        min-height: 370px;
+        gap: 25px;
+        padding: 20px 15px;
+    }
+    .feature-content h4 {
+        font-size: 24px;
+    }
+    .feature-content p {
+        font-size: 20px;
+        min-height: 48px;
+    }
+    .feature-action a {
+        width: 40px;
+        height: 40px;
+    }
+    .global-bottom-area {
+        padding: 35px 0;
+    }
+    .global-bottom-wrapper h2 {
+        font-size: 24px;
+    }
+    .footer-top {
+        flex-direction: column;
+        gap: 15px;
+    }
+    .footer-top-left h2 {
+        font-size: 24px;
+        text-align: center;
+    }
+    .footer-top-left p {
+        font-size: 16px;
+        margin-top: 0px;
+    }
+    .footer-wrapper {
+        padding-top: 50px;
+        padding-bottom: 35px;
+    }
+    .fail-connect-area {
+        padding: 30px 0;
+    }
+    .fail-connect-wrapper {
+        padding-top: 20px;
+        gap: 10px;
+    }
+    .video-container {
+        padding-top: 30px;
+    }
+    .unified-insight-area {
+        padding: 30px 0;
+    }
+    .unified-wrapper h2 {
+        font-size: 24px;
+        margin-top: 10px;
+    }
+    .unified-wrapper .unified-pera p {
+        font-size: 16px;
+    }
+    .hero-middle-wp img {
+        max-width: 150px;
+    }
+    .unified-wrapper h5 {
+        font-size: 16px;
+    }
+    .warning-missed-area {
+        padding-top: 30px;
+    }
+    .warning-wrapper {
+        padding-top: 40px;
+    }
+    .warrning-block h4 {
+        font-size: 18px;
+    }
+    .warrning-block ul li {
+        font-size: 15px;
+    }
+    .warrning-block {
+        padding: 30px 20px;
+    }
+    .global-bottom-wrapper p {
+        font-size: 16px;
+    }
+    .fragmented-intelligence-area {
+        padding-top: 30px;
+    }
+    .problem-solve-area {
+        padding-top: 35px;
+    }
+    .problem-solve-wrapper p {
+        font-size: 16px;
+        margin-top: 15px;
+    }
+    .data-supermacy-wrapper {
+        padding-top: 30px;
+    }
+    .feature-area.about-feature {
+        padding: 35px 0;
+    }
+    .technology-area {
+        padding: 35px 0;
+    }
+    .card-top-wp p {
+        font-size: 18px;
+    }
+    .card-top-wp {
+        gap: 15px;
+    }
+    .single-technology-card {
+        padding: 20px;
+        gap: 10px;
+    }
+    .single-technology-card h4 {
+        font-size: 20px;
+    }
+    .single-technology-card ul li {
+        font-size: 16px;
+    }
+    .story-area {
+        padding: 35px 0;
+    }
+    .story-card {
+        gap: 15px;
+    }
+    .story-card p {
+        font-size: 16px;
+    }
+    .story-wrapper {
+        gap: 20px;
+    }
+    .security-commitment-area {
+        padding: 35px 0;
+    }
+    .security-commitment-wrapper p {
+        font-size: 16px;
+    }
+    .inner-single-card h3 {
+        font-size: 20px;
+    }
+    .inner-single-card {
+        gap: 10px;
+    }
+    .inner-content-wp {
+        padding-top: 30px;
+        gap: 20px;
+    }
+    .contact-today-wrapper h2 {
+        font-size: 25px;
+    }
+    .contact-today-area {
+        padding: 50px 0;
+    }
+    .contact-form-area {
+        padding: 30px 0;
+    }
+    .input-group {
+        gap: 20px;
+    }
+    .single-input label,
+    .single-input h4 {
+        font-size: 17px;
+    }
+    .single-input input,
+    .single-input select,
+    .single-input textarea {
+        font-size: 16px;
+        padding: 10px 12px;
+    }
+    .check-items input {
+        width: 20px;
+        height: 20px;
+    }
+    .check-items.tems-policy label {
+        font-size: 14px;
+    }
+    /* newsroom page  */
+    .leadership-area {
+        padding: 35px 0;
+    }
+    .leadership-wp {
+        padding-top: 25px;
+    }
+    .leadership-card-content a {
+        font-size: 18px;
+    }
+    .press-releases-wrapper {
+        gap: 15px;
+    }
+    .releaases-list ul li a {
+        font-size: 16px;
+    }
+    .press-releases-area {
+        padding-bottom: 35px;
+    }
+    .press-contact a {
+        font-size: 18px;
+    }
+    .media-inquiries {
+        padding-bottom: 35px;
+    }
+    .privecy-terms-hero .hero-wrapper {
+        min-height: auto;
+        padding: 130px 0;
+    }
+    .policy-title {
+        font-size: 22px;
+        margin-top: 10px !important;
+    }
+    .policy-terms-top-block p {
+        margin-top: 10px;
+        font-size: 16px;
+    }
+    .policy-terms-block {
+        gap: 20px;
+    }
+    .policy-terms-top-block span {
+        font-size: 16px;
+    }
+    .policy-inner-block h4 {
+        font-size: 18px;
+    }
+    .policy-inner-block p {
+        font-size: 16px;
+    }
+    .policy-inner-block ul li {
+        font-size: 16px;
+    }
+    .terms-policy-wrapper {
+        gap: 20px;
+    }
+    .data-supermacy-content {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+}
