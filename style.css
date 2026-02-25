@@ -1,13 +1,8 @@
-/*
-========================
-GOBAL CSS START
-========================
-*/
-
 @import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&display=swap');
 /* SF Pro Font  */
 
 @import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+
 body {
     font-family: "Gabarito", sans-serif;
     font-size: 22px;
@@ -201,10 +196,6 @@ img {
         transform: translate(-50%, -50%) scale(2);
     }
 }
-
-/*===============
- GOBAL CSS END  
- ============== */
 
 /*========== header style start hare ============== */
 
@@ -720,7 +711,6 @@ img {
 }
 
 /*======== feature area style end hare ======== */
-
 /*==== global bottom area style start hare ====== */
 
 .global-bottom-area {

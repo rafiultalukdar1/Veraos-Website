@@ -8,8 +8,8 @@
 		});
 
 		$('.dropdown-wp > a').on('click', function(e) {
-			e.preventDefault(); // This stops the link from navigating
-		  });
+			e.preventDefault();
+		});
 		  
 		
 		jQuery(window).scroll(function(){
@@ -26,18 +26,14 @@
 				jQuery(".site-navbar").removeClass("menu-sticky");
 			}
 		});
-		// toogle button js 
-
+		
+		// toogle button js
 		$(".toggle").click(function() {
 			$(this).toggleClass("activate");
 		});		
 		$('#offcanvasMenu').on('hidden.bs.offcanvas', function () {
 			$(".toggle").removeClass("activate");
 		});
-
-		
-
-				
 		
 		$(".site-footer").jParticle({
 			background: "#0A082E",
@@ -49,7 +45,6 @@
 			}
 	
 		});
-		
 		
 		// video popup js 
 		$(document).ready(function () {
@@ -71,8 +66,7 @@
 			if ($(this).is(':checked')) {
 			  $('input[name="select-type"]').not(this).prop('checked', false);
 			}
-		  });
-		
+		});
 		
 	});
 })(jQuery);
