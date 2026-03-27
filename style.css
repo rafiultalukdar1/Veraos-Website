@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400..900&display=swap');
-/* SF Pro Font  */
 
 @import url('https://fonts.cdnfonts.com/css/sf-pro-display');
 
@@ -197,8 +196,7 @@ img {
     }
 }
 
-/*========== header style start hare ============== */
-
+/* Header Here */
 .site-header {
     position: absolute;
     top: 0;
@@ -1703,8 +1701,7 @@ about us page style start hare
 }
 
 
-/*=========== new code ========== */
-
+/*=========== new code here ========== */
 .site-logo img {
 	max-width: 165px;
 }
@@ -1741,21 +1738,21 @@ about us page style start hare
     font-size: 24px;
     color: #333333;
     margin-bottom: 10px;
-  }
+}
 
-  .press-release .date {
+.press-release .date {
     font-size: 14px;
     color: #777777;
     margin-bottom: 20px;
-  }
+}
 
-  .press-release .content {
+.press-release .content {
     font-size: 16px;
     color: #444444;
     line-height: 1.6;
-  }
+}
 
-  .unrivaled-images img {
+.unrivaled-images img {
 	border-radius: 30px;
 }
 

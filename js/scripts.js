@@ -71,6 +71,5 @@
 	});
 })(jQuery);
 
-// wow js install 
-
+// wow js 
 new WOW().init();
